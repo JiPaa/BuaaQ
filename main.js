@@ -49,7 +49,7 @@ export default class Main {
             // 用户点击了“转发”按钮
             return {
                 title: '转发标题',
-                imageUrl: 'https://mtshop1.meitudata.com/5ad58b143a94621047.jpg',
+                imageUrl: 'images/share.png',
                 query: 'key1=1&key2=2',
                 success: (res) => {
                     // 问题页面因为没有设置loop 绘制，分享完成后会黑屏，需要重新绘制canvas

@@ -1,5 +1,4 @@
 /**
- * Created by cooky on 2018/5/9.
  * 问题处理类
  */
 import {questionList} from '../data/questions.js'

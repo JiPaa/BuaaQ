@@ -1,6 +1,4 @@
-/**
- * Created by cooky on 2018/5/10.
- */
+
 import Background from "../runtime/background";
 import Sprite from "../base/Sprite";
 import DataStore from "../base/DataStore";

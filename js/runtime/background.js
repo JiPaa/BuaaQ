@@ -1,6 +1,4 @@
-/**
- * Created by cooky on 2018/5/9.
- */
+
 import Sprite from '../base/Sprite'
 
 const screenWidth  = window.innerWidth;

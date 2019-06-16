@@ -1,6 +1,4 @@
-/**
- * Created by cooky on 2018/5/14.
- */
+
 import DataStore from '../base/DataStore.js';
 
 export const checkSession = () => {
